@@ -1,3 +1,17 @@
-# MoraWeb
-This web using wordpress
-#1
+## Requirements
+- NodeJS
+
+## Install
+```
+npm install
+```
+
+## Run
+```
+gulp
+```
+
+To build sass files separately, run
+```
+gulp sass
+```
